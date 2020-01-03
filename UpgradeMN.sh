@@ -6,7 +6,7 @@ cd ~/zcoin-0.13.8/bin
 ./zcoin-cli stop
 cd ~
 rm -rv zcoin-0.13.8
-tar xvzf zcoin-0.13.8.9-linux64.tar.gz
+tar xvzf zcoin-0.13.8.10-linux64.tar.gz
 sudo reboot now
 
 ~/zcoin-0.13.8/bin/zcoin-cli znode status
